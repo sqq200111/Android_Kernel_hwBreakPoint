@@ -15,7 +15,7 @@
 
 //当前驱动版本号
 #define SYS_VERSION 01
-#define DEV_FILENAME "/dev/hwBreakpointProc"
+#define DEV_FILENAME "/dev/hwBreakpointProc1"
 
 
 #ifndef __cplusplus
